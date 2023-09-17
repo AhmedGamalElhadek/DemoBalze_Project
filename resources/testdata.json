@@ -1,0 +1,7 @@
+{
+  "searchText": "car accessories",
+  "notAddedItemMessage": "Your product is not added to cart",
+  "expectedAddedToCart": "Added to Cart",
+  "existInCartMessage": "Item exist in cart",
+  "notExistInCartMessage": "Item not exist in cart"
+}
